@@ -1,0 +1,40 @@
+{
+  "tagged_team_volume": {
+    "Chat Frontline": 3030,
+    "Billing": 2564,
+    "Logistics": 1905,
+    "Email Frontline": 1807,
+    "Returns Desk": 1049,
+    "Voice Frontline": 900,
+    "Escalations & Warranty": 525
+  },
+  "true_owner_volume": {
+    "Logistics": 3133,
+    "Chat Frontline": 2524,
+    "Billing": 2003,
+    "Returns Desk": 1562,
+    "Email Frontline": 1427,
+    "Voice Frontline": 739,
+    "Escalations & Warranty": 392
+  },
+  "billing_share_tagged": 0.2177,
+  "billing_share_true": 0.17,
+  "logistics_share_tagged": 0.1617,
+  "logistics_share_true": 0.266,
+  "billing_tagged_but_delivery_n": 891,
+  "billing_tagged_but_delivery_pct_of_billing": 0.3475,
+  "misroute_avg_transfers_helpdesk": 0.907,
+  "direct_logistics_avg_transfers_helpdesk": 0.09,
+  "misroute_median_handle_hours": 47.92,
+  "direct_logistics_median_handle_hours": 24.52,
+  "misroute_breach_rate": 0.3629,
+  "direct_logistics_breach_rate": 0.0895,
+  "misrouted_tickets_per_quarter": 107,
+  "rs_per_quarter_transfer": 26635,
+  "rs_per_quarter_wasted_first_touch": 31007,
+  "rs_per_quarter_extra_sla_credit": 10232,
+  "rs_per_quarter_total_conservative": 36867,
+  "rs_per_quarter_total_with_wasted_touch": 67874,
+  "refund_and_replacement_same_ticket_n": 2,
+  "refund_and_replacement_same_ticket_rs_refunds": 7249.0
+}

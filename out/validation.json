@@ -1,0 +1,8 @@
+{
+  "n_total": 11780,
+  "n_unclassified_by_message": 1038,
+  "n_compared": 9425,
+  "message_rules_vs_agent_note_agreement": 0.6929,
+  "bot_tag_vs_agent_note_agreement_excl_Other": 0.7025,
+  "caveat": "Silver labels come from agent notes (also keyword rules, plus agents copy-paste). This is a consistency check, NOT human-labelled ground truth. Hand-check sample: see hand_check_sample.csv"
+}
